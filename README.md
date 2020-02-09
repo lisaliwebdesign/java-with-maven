@@ -257,5 +257,5 @@ Here’s the completed `pom.xml` file:
 ---
 + To run this project run the following command.
 
-    `java -cp target/hello-world-maven-0.1.0.jar hello.HelloWorld`
+    `java -cp target/hello-world-maven-0.1.0.jar hello.Hello`
 # java-with-maven
